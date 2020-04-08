@@ -1,0 +1,15 @@
+{
+    "name": "scrimba-theme",
+    "title": "Scrimba Theme",
+    "description": "Scrimba Theme for Brackets",
+    "homepage": "https://github.com/erole-attack/Scrimba-Theme",
+    "version": "1.0.0",
+    "author": "Jeroen Gunster <jeroen.gunster@gmx.com>",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": false
+    },
+    "keywords": ["theme"]
+}
