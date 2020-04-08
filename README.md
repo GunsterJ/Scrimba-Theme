@@ -1,2 +1,4 @@
 # Scrimba-Theme
-Scrimba Theme for Brackets
+Scrimba influenced theme for Brackets
+
+![](Images/screenshot.png)
