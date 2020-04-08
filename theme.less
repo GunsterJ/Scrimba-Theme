@@ -40,9 +40,14 @@
 
 /* Code Styling */
 
+.CodeMirror-vscrollbar {
+  display:none !important;
+}
+
 .CodeMirror, .CodeMirror-scroll {
     background-color: @background;
     color: @foreground;
+    line-height: 20px;
 }
 
 .CodeMirror-focused .CodeMirror-activeline-background {
